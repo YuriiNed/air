@@ -1,0 +1,10 @@
+//Fix previos styles
+.page-menu.transparent .page-menu-link {
+    color: inherit;
+}
+
+@media (min-width: 768px) {
+    .section-banner .banner-title .sup-text {
+        right: -150px;
+    }
+}

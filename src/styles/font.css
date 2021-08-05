@@ -1,0 +1,142 @@
+@font-face {
+    font-family: Montserrat-Regular;
+    src: local("Montserrat Regular"), local("Montserrat-Regular"), url(/fonts/Montserrat-Regular.eot?5b3ad248f67d8b84cb14f4f35cd031e8?#iefix) format("embedded-opentype"), url(/fonts/Montserrat-Regular.woff2?6c8807219b0ecffdf96122b80df3e62c) format("woff2"), url(/fonts/Montserrat-Regular.woff?c0b8804ae85213c9194816da945db150) format("woff"), url(/fonts/Montserrat-Regular.ttf?afd7a5cb0ff90afa9eadd0996ad2da1e) format("truetype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Montserrat-ExtraBold;
+    src: url(/fonts/Montserrat-ExtraBold.eot?c90e8869dea3f697d1d4b117d3d28ef2);
+    src: local("Montserrat ExtraBold"), local("Montserrat-ExtraBold"), url(/fonts/Montserrat-ExtraBold.eot?c90e8869dea3f697d1d4b117d3d28ef2?#iefix) format("embedded-opentype"), url(/fonts/Montserrat-ExtraBold.woff2?c89e1bc8400a4384e8341475bfef307b) format("woff2"), url(/fonts/Montserrat-ExtraBold.woff?319806fe7c687ad5a99ed47eec4fd623) format("woff"), url(/fonts/Montserrat-ExtraBold.ttf?c8acaef2f97fb837a7012594f1ef7269) format("truetype");
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url(/fonts/Montserrat-Regular.eot?5b3ad248f67d8b84cb14f4f35cd031e8);
+    src: local("Montserrat Regular"), local("Montserrat-Regular"), url(/fonts/Montserrat-Regular.eot?5b3ad248f67d8b84cb14f4f35cd031e8?#iefix) format("embedded-opentype"), url(/fonts/Montserrat-Regular.woff2?c7b975f3e8445b8b780e6e2ddc8fdaaa) format("woff2"), url(/fonts/Montserrat-Regular.woff?de4a911e831ca01751ab001a54de34dd) format("woff"), url(/fonts/Montserrat-Regular.ttf?afd7a5cb0ff90afa9eadd0996ad2da1e) format("truetype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url(/fonts/Montserrat-Bold.eot?7ad9c1a987324c63923bdd6b4f58e87c);
+    src: local("Montserrat Bold"), local("Montserrat-Bold"), url(/fonts/Montserrat-Bold.eot?7ad9c1a987324c63923bdd6b4f58e87c?#iefix) format("embedded-opentype"), url(/fonts/Montserrat-Bold.woff2?1eaf59537a9c317acaa4b2c144cd89d6) format("woff2"), url(/fonts/Montserrat-Bold.woff?137a9f5f920bcccad63c115397dc1532) format("woff"), url(/fonts/Montserrat-Bold.ttf?38a49c5d1b18bfb6a0b2379ec8c4354b) format("truetype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url(/fonts/Montserrat-SemiBold.eot?ab8ea2e0952cbe3792985696c2ed9fbf);
+    src: local("Montserrat SemiBold"), local("Montserrat-SemiBold"), url(/fonts/Montserrat-SemiBold.eot?ab8ea2e0952cbe3792985696c2ed9fbf?#iefix) format("embedded-opentype"), url(/fonts/Montserrat-SemiBold.woff2?c74260cde1a16b48febba358704ac4b6) format("woff2"), url(/fonts/Montserrat-SemiBold.woff?f4103669740e1258103e7fee7bfafbc1) format("woff"), url(/fonts/Montserrat-SemiBold.ttf?60ebedd4fcfab4c919aee49af5717aa5) format("truetype");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url(/fonts/Montserrat-ExtraBold.eot?e1ccaacafd14d979fb201ee9891c3c15);
+    src: local("Montserrat ExtraBold"), local("Montserrat-ExtraBold"), url(/fonts/Montserrat-ExtraBold.eot?e1ccaacafd14d979fb201ee9891c3c15?#iefix) format("embedded-opentype"), url(/fonts/Montserrat-ExtraBold.woff2?69542103c5dd6cd037bea90bfe130577) format("woff2"), url(/fonts/Montserrat-ExtraBold.woff?6bf17403f884285592f77a335b827914) format("woff"), url(/fonts/Montserrat-ExtraBold.ttf?e5897b0cf1ba50154fd095e66a4fc62c) format("truetype");
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url(/fonts/Montserrat-Medium.eot?4183bb3edc82bb19a8ddf6573acbdcd8);
+    src: local("Montserrat Medium"), local("Montserrat-Medium"), url(/fonts/Montserrat-Medium.eot?4183bb3edc82bb19a8ddf6573acbdcd8?#iefix) format("embedded-opentype"), url(/fonts/Montserrat-Medium.woff2?4193cb373574474bd262f0cada40c68e) format("woff2"), url(/fonts/Montserrat-Medium.woff?72aebf4516ddcbc7634c4640fb6f9a90) format("woff"), url(/fonts/Montserrat-Medium.ttf?91c0784cecdbcb3badf85ba842de5f21) format("truetype");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Gilroy;
+    src: url(/fonts/Gilroy-Black.eot?b95d74fdf7354079c3fe8d426d1c5c7d);
+    src: url(/fonts/Gilroy-Black.eot?b95d74fdf7354079c3fe8d426d1c5c7d?#iefix) format("embedded-opentype"), url(/fonts/Gilroy-Black.woff2?a8a78cedb4cca6147981d50324a537a6) format("woff2"), url(/fonts/Gilroy-Black.woff?10daa423285bb98cf98b3b6c2a9dfaa3) format("woff"), url(/fonts/Gilroy-Black.ttf?b7d1e8d2960da1d2419c6abc2b6f63f8) format("truetype");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Gilroy;
+    src: url(/fonts/Gilroy-Light.eot?c8950bf0438404aa25d2e02e604c8e72);
+    src: url(/fonts/Gilroy-Light.eot?c8950bf0438404aa25d2e02e604c8e72?#iefix) format("embedded-opentype"), url(/fonts/Gilroy-Light.woff2?0f327d539349edcbbec4c0020e6d117a) format("woff2"), url(/fonts/Gilroy-Light.woff?b29e7191d9a81b0942e8cde40682a1de) format("woff"), url(/fonts/Gilroy-Light.ttf?ec5b8aa1a5b5484158fc95dcccbacff1) format("truetype");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Gilroy;
+    src: url(/fonts/Gilroy-ExtraBold.eot?0ea1d80ac794d59aac82e4bf51c80ebf);
+    src: url(/fonts/Gilroy-ExtraBold.eot?0ea1d80ac794d59aac82e4bf51c80ebf?#iefix) format("embedded-opentype"), url(/fonts/Gilroy-ExtraBold.woff2?65aa429dc986b726998e28f7005a2071) format("woff2"), url(/fonts/Gilroy-ExtraBold.woff?17a2efc5c780a6d2c4d36a8f0099aab4) format("woff"), url(/fonts/Gilroy-ExtraBold.ttf?8a592397efad102156cad1e454b686de) format("truetype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Gilroy;
+    src: url(/fonts/Gilroy-SemiBold.eot?a809a0403e09b0ceeefea648151f8566);
+    src: url(/fonts/Gilroy-SemiBold.eot?a809a0403e09b0ceeefea648151f8566?#iefix) format("embedded-opentype"), url(/fonts/Gilroy-SemiBold.woff2?a42aa5fa042344730d0138a5d3b22c7c) format("woff2"), url(/fonts/Gilroy-SemiBold.woff?75375d49e681d07d2ac19309607a2971) format("woff"), url(/fonts/Gilroy-SemiBold.ttf?d3d48286953aaffe7ec8e5927600f5a9) format("truetype");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Gilroy;
+    src: url(/fonts/Gilroy-Thin.eot?bc84499991b71c9caf7be0f9f009c531);
+    src: url(/fonts/Gilroy-Thin.eot?bc84499991b71c9caf7be0f9f009c531?#iefix) format("embedded-opentype"), url(/fonts/Gilroy-Thin.woff2?1d67c8f2e6efc19bdf8080d2729fda00) format("woff2"), url(/fonts/Gilroy-Thin.woff?3cabca68f2212cb58bd2cea7879473b8) format("woff"), url(/fonts/Gilroy-Thin.ttf?35339538cd58233db1e03c856da909f5) format("truetype");
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Gilroy;
+    src: url(/fonts/Gilroy-Medium.eot?a79500669828752600504216c37658a6);
+    src: url(/fonts/Gilroy-Medium.eot?a79500669828752600504216c37658a6?#iefix) format("embedded-opentype"), url(/fonts/Gilroy-Medium.woff2?d4d8619754cdda0920b403d6701aec59) format("woff2"), url(/fonts/Gilroy-Medium.woff?7d5e11eebcafd3265c396252d759fe53) format("woff"), url(/fonts/Gilroy-Medium.ttf?7158bedd51e7988b4286ad2c3d2ac3f6) format("truetype");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Gilroy;
+    src: url(/fonts/Gilroy-Regular.eot?3ace0ece4e14cc18f1e596a8d2acc2f2);
+    src: url(/fonts/Gilroy-Regular.eot?3ace0ece4e14cc18f1e596a8d2acc2f2?#iefix) format("embedded-opentype"), url(/fonts/Gilroy-Regular.woff2?a50e3d874af733b0fba40e90c7c9d338) format("woff2"), url(/fonts/Gilroy-Regular.woff?5f6cc9c1025731aeddc6d23fb0bf94ab) format("woff"), url(/fonts/Gilroy-Regular.ttf?60692f65d9c9c72832a016891f9e70a4) format("truetype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: Gilroy;
+    src: url(/fonts/Gilroy-Bold.eot?5025b217b3e454b28450973c478943f4);
+    src: url(/fonts/Gilroy-Bold.eot?5025b217b3e454b28450973c478943f4?#iefix) format("embedded-opentype"), url(/fonts/Gilroy-Bold.woff2?05b0751e972519b362bbea7407dda6f9) format("woff2"), url(/fonts/Gilroy-Bold.woff?b8087b6082fce3eeddcc3ebe4f398c17) format("woff"), url(/fonts/Gilroy-Bold.ttf?5d061e15a2cf1be5ad1d5a1a0763ebbc) format("truetype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: PFDinTextCompPro-Medium;
+    src: url(/fonts/PFDinTextCompPro-Medium.eot?6823926e3064b43982c061ca7f4e0674);
+    src: local("PF Din Text Comp Pro Medium Regular"), local("PFDinTextCompPro-Medium"), url(/fonts/PFDinTextCompPro-Medium.eot?6823926e3064b43982c061ca7f4e0674?#iefix) format("embedded-opentype"), url(/fonts/PFDinTextCompPro-Medium.woff2?8daa2a53922ef8e6afb9b3487b2334ec) format("woff2"), url(/fonts/PFDinTextCompPro-Medium.woff?050f457b47697964e48dae2620b89663) format("woff"), url(/fonts/PFDinTextCompPro-Medium.ttf?d9dd51f78ee8ca66029bfc9167f628be) format("truetype");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap
+}
